@@ -24,9 +24,7 @@ In Event Graph:
 When IsAiming = true, zoom the camera in (FOV) and slightly shift it over the shoulder.
 
 ### Output
-
 <img width="1135" height="917" alt="image" src="https://github.com/user-attachments/assets/8e7b1a40-5fa9-46a1-a443-5049ca65cfe7" />
-
 <img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/fa7dae19-f4e8-4c1f-9ad1-385ec6867644" />
 
 ### Result
